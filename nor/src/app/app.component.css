@@ -1,0 +1,20 @@
+/* .userAvatar{
+    display:block;
+}
+.userAvatar:hover>.accountMenu, .userAvatar:active{
+    display: block;
+}
+
+.avatarContainer{
+    display:block
+}
+ #avatar_img{
+    position: absolute;
+    border-radius: 50%;
+    width:40px;
+   left:90%;
+}
+#avatar_img:hover>.accountMenu{
+    display: block;
+    
+} */
